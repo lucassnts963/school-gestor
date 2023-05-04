@@ -7,6 +7,7 @@ export function Header() {
                 <ul className="flex gap-3 text-zinc-50 font-bold">
                     <li><Link className="hover:text-red-500" href="/">Início</Link></li>
                     <li><Link className="hover:text-red-500" href="/about">Sobre</Link></li>
+                    <li><Link className="hover:text-red-500" href="/signup">Cadastrar</Link></li>
                 </ul>
             </nav>
         </header>
