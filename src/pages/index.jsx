@@ -2,7 +2,6 @@ import Head from "next/head";
 import Image from "next/image"
 
 import logo from '../assets/logo.png'
-import logoOuro from '../assets/logo_ouro.png'
 
 export default function Home () {
 	return (
